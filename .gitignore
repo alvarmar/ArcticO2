@@ -1,0 +1,10 @@
+# Mac files
+.DS_Store
+
+# Figures
+*.png
+
+# Data
+*.cnv
+*.csv
+*.nc
