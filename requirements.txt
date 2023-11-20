@@ -1,0 +1,21 @@
+Required packages to run codes:
+
+
+Pandas
+Matplotlib
+Spicy
+Numpy
+Seaborg
+Glob 
+
+
+
+Oceanographic calculations on TEOS-10
+gsw
+thermodynamic neutral density (Tilleuxx routine)
+
+Colormaps
+colorcet
+
+
+My environment is called articO2
